@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(156, 201, 220);
+    font-size: 25px;
+    text-align: left;
+    p::first-line {
+        color: #d57d00;
+        font-variant: common-lig-values;
+      }
+  }
+  
+  span {
+    float: center;
+    color: rgb(0, 106, 255);
+  }
+
+  h1 {
+    color: rgb(45, 17, 202);
+    margin-left: 0px;
+    font-size: 120px;
+  } 
+  
+  h2  {
+    color: rgb(0, 179, 30);
+    margin-left: 0px;
+    font-size: 60px;
+  }
+
+  h6  {
+    color: rgb(221, 120, 12);
+    /* margin-left: 500px; */
+    text-align: center;
+    font-size: 20px;
+  }
